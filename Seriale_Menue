@@ -3,9 +3,9 @@
 
 <channels> 
 <channel> 
-<name>[B]Seriale 1 - [/B]</name> 
+<name>[B]Seriale[/B]</name> 
 <thumbnail>https://tse1.mm.bing.net/th?id=OIP.S-zjqCmwY9EUYxLUOVehiQAAAA&pid=Api&P=0&w=185&h=156</thumbnail> 
-<externallink>https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Seriale</externallink> 
+<externallink>https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Seriale.m3u</externallink> 
 <fanart>https://tse1.mm.bing.net/th?id=OIP.S-zjqCmwY9EUYxLUOVehiQAAAA&pid=Api&P=0&w=185&h=156</fanart> 
 <info></info> 
 </channel>
